@@ -41,3 +41,4 @@ Abaixo estão os integrantes e suas respectivas matrículas:
 | Gabriel Faria Soares              | 202502335131    |
 | Victor Sciammarella de Almeida    | 202502801505    |
 | Marcelle Silva Campos             | 202502420706    |
+| Pedro Fonseca Silva               | 202502821581    |
